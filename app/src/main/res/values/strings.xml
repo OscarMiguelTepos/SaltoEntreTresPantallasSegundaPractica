@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SaltoEntreTresPantallas</string>
+    <string name="SegundaPantallaSiguiente">Ir A Segunda Pantalla</string>
+    <string name="tv1">Primer Pantalla</string>
+    <string name="TercerPantallaSiguiente">Ir A Tercer Pantalla</string>
+    <string name="tv2">Segunda Pantalla</string>
+    <string name="IrAPantallaPrincipal">Ir A Pantalla Principal</string>
+    <string name="tv3">Tercer Pantalla</string>
+</resources>
